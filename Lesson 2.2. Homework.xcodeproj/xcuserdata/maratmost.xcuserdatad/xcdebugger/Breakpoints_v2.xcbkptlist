@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "051C17BF-A090-48DB-BAF5-2A5F099DF7B9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9EE9DB9-B89E-4767-9EAE-EA3FFA352A6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson 2.2. Homework/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B9EE9DB9-B89E-4767-9EAE-EA3FFA352A6D - bd7c7af8891bd041"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.greenSlider.getter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B9EE9DB9-B89E-4767-9EAE-EA3FFA352A6D - 8a5c7f49d804204d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.greenSlider.setter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B9EE9DB9-B89E-4767-9EAE-EA3FFA352A6D - 93b4fdfa5f83347c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.greenSlider.modify : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B9EE9DB9-B89E-4767-9EAE-EA3FFA352A6D - c8be6568459bc70a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.greenSlider.modify : Swift.Optional&lt;__C.UISlider&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B9EE9DB9-B89E-4767-9EAE-EA3FFA352A6D - 8eddf91d192f7200"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson_2_2__Homework.ViewController"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "B9EE9DB9-B89E-4767-9EAE-EA3FFA352A6D - f01aa5b330bc90f4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson_2_2__Homework.ViewController&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6C1A0A0-D363-419C-A384-F97EBEC02D61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson 2.2. Homework/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52EE6D25-745F-46BE-A9D0-B1685617F72A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson 2.2. Homework/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "52EE6D25-745F-46BE-A9D0-B1685617F72A - 7e8cb10148b562c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson_2_2__Homework.ViewController"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "52EE6D25-745F-46BE-A9D0-B1685617F72A - 8eddf91d192f7518"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson_2_2__Homework.ViewController"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "52EE6D25-745F-46BE-A9D0-B1685617F72A - 7fc24cdc58b93c18"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson_2_2__Homework.ViewController&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "52EE6D25-745F-46BE-A9D0-B1685617F72A - f01aa5b330bc97ec"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson_2_2__Homework.ViewController&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "52EE6D25-745F-46BE-A9D0-B1685617F72A - 8f959ede5c67e9a5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.__deallocating_deinit"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CD7D11E-C1F1-4B94-873C-0A589A118E50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson 2.2. Homework/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2CD7D11E-C1F1-4B94-873C-0A589A118E50 - 7e8cb10148b562c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson_2_2__Homework.ViewController"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2CD7D11E-C1F1-4B94-873C-0A589A118E50 - 8eddf91d192f7518"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson_2_2__Homework.ViewController"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "2CD7D11E-C1F1-4B94-873C-0A589A118E50 - 7fc24cdc58b93c18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson_2_2__Homework.ViewController&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2CD7D11E-C1F1-4B94-873C-0A589A118E50 - f01aa5b330bc97ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson_2_2__Homework.ViewController&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "2CD7D11E-C1F1-4B94-873C-0A589A118E50 - 8f959ede5c67e9a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.__deallocating_deinit"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1540B26-D901-47F0-A4B5-E14AFC2A714D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lesson 2.2. Homework/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B1540B26-D901-47F0-A4B5-E14AFC2A714D - eeaef387fa9995e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.colorView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B1540B26-D901-47F0-A4B5-E14AFC2A714D - ddcf3cb3c43e0dd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.colorView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B1540B26-D901-47F0-A4B5-E14AFC2A714D - f9d396684a0bfbe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.colorView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B1540B26-D901-47F0-A4B5-E14AFC2A714D - c2d9888a00e59b27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.colorView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B1540B26-D901-47F0-A4B5-E14AFC2A714D - 8eddf91d192f7518"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson_2_2__Homework.ViewController"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "B1540B26-D901-47F0-A4B5-E14AFC2A714D - f01aa5b330bc97ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_2_2__Homework.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson_2_2__Homework.ViewController&gt;"
+                  moduleName = "Lesson 2.2. Homework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maratmost/Swift%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/Course%20%D0%A1%D0%B2%D0%B8%D1%84%D1%82%D0%B1%D1%83%D0%BA/My%20files/%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202/2.2.%20UIKit.%20%D0%97%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%B0/Lesson%202.2.%20Homework/Lesson%202.2.%20Homework/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
