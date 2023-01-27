@@ -63,11 +63,9 @@ class ViewController: UIViewController {
             }
         }
     }
-    
     // Значения RGB
     private func string(from slider: UISlider) -> String {
         String(Int(slider.value))
     }
-    
 }
 
